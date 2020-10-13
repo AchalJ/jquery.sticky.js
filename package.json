@@ -1,0 +1,30 @@
+{
+  "name": "jquery-sticky-js",
+  "version": "1.0.0",
+  "description": "A simple jQuery extension to make any HTML element sticky on scroll.",
+  "keywords": [
+	  "jquery-plugin",
+	  "jquery-fixed",
+	  "sticky-element",
+	  "fixed-element",
+	  "fixed"
+  ],
+  "main": "jquery.sticky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchalJ/jquery.sticky.js.git"
+  },
+  "author": "Achal Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AchalJ/jquery.sticky.js/issues"
+  },
+  "homepage": "https://github.com/AchalJ/jquery.sticky.js#readme",
+  "peerDependencies": {
+    "jquery": "*"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
