@@ -25,6 +25,5 @@
   "homepage": "https://github.com/AchalJ/jquery.sticky.js#readme",
   "peerDependencies": {
     "jquery": "*"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
 }
