@@ -1,5 +1,5 @@
 {
-  "name": "jquery-sticky-js",
+  "name": "@achalj/jquery-sticky",
   "version": "1.0.0",
   "description": "A simple jQuery extension to make any HTML element sticky on scroll.",
   "keywords": [
